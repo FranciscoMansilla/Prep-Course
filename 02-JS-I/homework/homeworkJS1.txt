@@ -1,0 +1,9 @@
+1. escribe explicaciones de los siguientes conceptos:
+
+ * Variables: son asignaciones en espacios de memoria para guardar algun tipo de dato
+ * Strings: son cadenas de caracteres, palabras o cuerdas.
+ * Funciones (argumentos, `return`): es codigo realizado para que realize una tarea.
+ Los argumentos: son los datos que se deben ingresar en una funcion.
+ 'return': es una palabra reservada utilizada para definir la salida de una funcion.
+ * Declaraciones `if`: es una sentencia que tiene una condicional, esta en caso de ser verdadera se ejecutara un bloque de codigo.
+ * Valores booleanos (`true`, `false`): son un tipo de dato que representan un valor de verdad true o false.
