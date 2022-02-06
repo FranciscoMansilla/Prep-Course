@@ -1,0 +1,6 @@
+1. Explicar los siguientes conceptos
+
+* `for`: el bucle for repetira un bloque de codigo mientras se cumpla la condicional para una variable, que con cada vuelta de codigo incremantara la variable que sirve como contador. 
+* `&&`, `||`, `!`: son los operadores logicos; && (and) evalua ambas expresiones tendra el valor true solo si ambas son true. 
+                                               || (or) evalua ambas expresiones tendra el valor true solo si alguna de las dos es true.
+                                               ! (NOT) cambia el valor de verdad de la expresion que se encuentre a su derecha.
