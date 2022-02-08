@@ -1,0 +1,7 @@
+* Objetos: es un tipo de dato que se permite guardar una lista de propiedades o metodos.
+* Propiedades: son tipos de datos que 'describen' al objeto.
+* Métodos: son las funciones que puede realizar o involucran al objeto 
+* Bucle `for…in`: sirve para iterar una cierta cantidad de veces igual a la cantidad de claves que tenga el objeto.
+* Notación de puntos vs notación de corchetes: en la notacion DOT se toma como nombre de la clave a lo que se encuentre a la derecha del punto, que se coloca seguido del objeto.
+                                               en la notacion BRACKET se debe colocar la clave dentro de corchetes ya sea como String, como posicion (enumerada como entero) o 
+                                               como variable que contenga alguna de las dos anteriores
