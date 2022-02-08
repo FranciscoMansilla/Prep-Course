@@ -1,0 +1,3 @@
+* `prototype`: es un mecanismo que permiten que los objetos hereden metodos.
+* _Constructors_ (de Clases): se puede decir que son plantillas para crear una categoria de objetos, estos objetos tienen en comun propiedades y metodos
+                            que ya quedan predefinido en esta plantilla.
